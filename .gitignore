@@ -1,0 +1,33 @@
+# B 站登录态 —— 绝对不要提交
+cookies.txt
+*.cookies
+*.cookie
+.browser_profile/
+
+# 下载的媒体与中间产物
+video/
+audio/
+frames/
+pages/
+clips/
+subs/
+text/
+*.mp4
+*.m4a
+*.mp3
+*.srt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+
+# 临时
+result.json
+sheet*.jpg
